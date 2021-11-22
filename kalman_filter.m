@@ -1,5 +1,5 @@
 % Kalman Filter (Euler Angles)
-
+% Com problemas, preciso resolver
 %% SETUP
 clear;
 clc;
